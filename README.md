@@ -19,6 +19,12 @@ git clone git@github.com:kalleepar/GroupProject1.git
 ### Contributions
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
+## Utilities & APIs
+![API: Cheap Shark](https://apidocs.cheapshark.com/)
+![API: RandomUser](https://randomuser.me)
+![jQuery/jQueryUI](https://jquery.com)
+![Materialize](https://materializecss.com/)
+
 ## Demo
 [Site Demo](https://kalleepar.github.io/GroupProject1/home.html)
 
