@@ -27,7 +27,7 @@ We utilized the following tools in our project. Check them out below.
 * [Materialize](https://materializecss.com/)
 
 ## Demo
-[Site Demo](https://kalleepar.github.io/GroupProject1/home.html)
+[Site Demo](https://cltjared.github.io/api-quicksave/home.html)
 
 ### Screenshot
 
