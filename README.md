@@ -8,7 +8,7 @@ Modernized game deals site to make searching for gaming deals easy and fun.
 ## Installation
 Uitilize git clone to copy down project locally.
 ```bash
-git clone git@github.com:kalleepar/GroupProject1.git
+git clone git@github.com:CLTJared/api-quicksave.git
 ```
 
 ## Contributors
