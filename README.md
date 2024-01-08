@@ -24,7 +24,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ### Screenshot
 
-![Alt text](https://github.com/kalleepar/GroupProject1/blob/ba34d9941c0c396c91f184e1fff734a48b82ef1c/assets/pictures/quicksavesample1.jpg)
-![Alt text](https://github.com/kalleepar/GroupProject1/blob/ba34d9941c0c396c91f184e1fff734a48b82ef1c/assets/pictures/quicksavesample2.jpg)
-![Alt text](https://github.com/kalleepar/GroupProject1/blob/ba34d9941c0c396c91f184e1fff734a48b82ef1c/assets/pictures/quicksavesample3.jpg)
-![Alt text](https://github.com/kalleepar/GroupProject1/blob/ba34d9941c0c396c91f184e1fff734a48b82ef1c/assets/pictures/quicksavesample4.jpg)
+![Homepage](https://github.com/kalleepar/GroupProject1/blob/ba34d9941c0c396c91f184e1fff734a48b82ef1c/assets/pictures/quicksavesample1.jpg)
+![Browse](https://github.com/kalleepar/GroupProject1/blob/ba34d9941c0c396c91f184e1fff734a48b82ef1c/assets/pictures/quicksavesample2.jpg)
+![Contact](https://github.com/kalleepar/GroupProject1/blob/ba34d9941c0c396c91f184e1fff734a48b82ef1c/assets/pictures/quicksavesample3.jpg)
+![Wishlist](https://github.com/kalleepar/GroupProject1/blob/ba34d9941c0c396c91f184e1fff734a48b82ef1c/assets/pictures/quicksavesample4.jpg)
