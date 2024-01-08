@@ -29,8 +29,10 @@ We utilized the following tools in our project. Check them out below.
 ## Demo
 [Site Demo](https://cltjared.github.io/api-quicksave/home.html)
 
-### Screenshot
+## Pitch Deck
+[Pitch Deck](./assets/Click$ave%20-%20Presentation.pdf)
 
+### Screenshot
 ![Homepage](./assets/pictures/quicksavesample1.jpg)
 ![Browse](./assets/pictures/quicksavesample2.jpg)
 ![Contact](./assets/pictures/quicksavesample3.jpg)
