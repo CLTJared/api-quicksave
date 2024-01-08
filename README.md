@@ -20,6 +20,7 @@ git clone git@github.com:kalleepar/GroupProject1.git
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## Utilities & APIs
+We utilized the following tools in our project. Check them out below.
 [API:CheapShark](https://apidocs.cheapshark.com/)
 [API:RandomUser](https://randomuser.me)
 [jQuery/jQueryUI](https://jquery.com)
