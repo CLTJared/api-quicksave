@@ -31,7 +31,7 @@ We utilized the following tools in our project. Check them out below.
 
 ### Screenshot
 
-![Homepage](https://github.com/kalleepar/GroupProject1/blob/ba34d9941c0c396c91f184e1fff734a48b82ef1c/assets/pictures/quicksavesample1.jpg)
-![Browse](https://github.com/kalleepar/GroupProject1/blob/ba34d9941c0c396c91f184e1fff734a48b82ef1c/assets/pictures/quicksavesample2.jpg)
-![Contact](https://github.com/kalleepar/GroupProject1/blob/ba34d9941c0c396c91f184e1fff734a48b82ef1c/assets/pictures/quicksavesample3.jpg)
-![Wishlist](https://github.com/kalleepar/GroupProject1/blob/ba34d9941c0c396c91f184e1fff734a48b82ef1c/assets/pictures/quicksavesample4.jpg)
+![Homepage](./assets/pictures/quicksavesample1.jpg)
+![Browse](./assets/pictures/quicksavesample2.jpg)
+![Contact](./assets/pictures/quicksavesample3.jpg)
+![Wishlist](./assets/pictures/quicksavesample4.jpg)
