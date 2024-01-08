@@ -21,10 +21,10 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## Utilities & APIs
 We utilized the following tools in our project. Check them out below.
-[API:CheapShark](https://apidocs.cheapshark.com/)
-[API:RandomUser](https://randomuser.me)
-[jQuery/jQueryUI](https://jquery.com)
-[Materialize](https://materializecss.com/)
+* [API:CheapShark](https://apidocs.cheapshark.com/)
+* [API:RandomUser](https://randomuser.me)
+* [jQuery/jQueryUI](https://jquery.com)
+* [Materialize](https://materializecss.com/)
 
 ## Demo
 [Site Demo](https://kalleepar.github.io/GroupProject1/home.html)
