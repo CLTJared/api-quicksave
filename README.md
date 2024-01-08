@@ -1,4 +1,4 @@
-# GroupProject1
+# Quick$ave - API Call Project
 Game deals site developed utilizing API calls to return deals for customers.
 
 ## Description
